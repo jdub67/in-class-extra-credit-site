@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Presbyterian College Baseball | Blue Hose Baseball</title>
+  <meta name="description" content="Follow Presbyterian College Blue Hose Baseball for schedules, tickets, player stories, news, highlights, and everything happening at Elton Pollock Field.">
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Google Analytics (paste GA4 tag here) -->
+
+  <!-- Google Search Console (paste HTML verification tag here) -->
+</head>
+
+<body>
+<header>
+  <h1>More Than Baseball. More Than a Game.</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="tickets.html">Tickets</a>
+  <a href="contact.html">Contact</a>
+  <a href="campaign.html">Campaign</a>
+</nav>
+
+<section>
+  <h2>Experience Blue Hose Baseball</h2>
+  <p>Experience Presbyterian College Baseball through competitive Division I baseball, unforgettable game days, player stories, and a community that makes every game matter.</p>
+
+  <a class="cta" href="tickets.html">GET TICKETS</a>
+  <a class="cta" href="https://gobluehose.com/sports/baseball/schedule">VIEW SCHEDULE</a>
+  <a class="cta" href="about.html">MEET THE TEAM</a>
+</section>
+
+<section>
+  <h2>Next Game</h2>
+  <p>Blue Hose Baseball vs. Opponent</p>
+  <p>Date | Time | Elton Pollock Field</p>
+</section>
+
+<section>
+  <h2>Latest Blue Hose Stories</h2>
+  <p>News + player features + behind-the-scenes content.</p>
+</section>
+
+<section>
+  <h2>Come Be Part of It</h2>
+  <p>Catch the Blue Hose at Elton Pollock Field.</p>
+  <a class="cta" href="tickets.html">GET TICKETS</a>
+</section>
+
+<footer>
+  Presbyterian College Blue Hose Baseball
+</footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About Presbyterian College Blue Hose Baseball</title>
+  <meta name="description" content="Learn about Presbyterian College Blue Hose Baseball, its history, mission, values, student-athletes, and connection to the Clinton community.">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<header>
+  <h1>This Is More Than Baseball. This Is Blue Hose Baseball.</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="tickets.html">Tickets</a>
+  <a href="contact.html">Contact</a>
+  <a href="campaign.html">Campaign</a>
+</nav>
+
+<section>
+  <h2>Our Program</h2>
+  <p>Presbyterian College Blue Hose Baseball is the NCAA Division I baseball program representing Presbyterian College in Clinton, South Carolina. The program competes in the Big South Conference and plays its home games at Elton Pollock Field.</p>
+</section>
+
+<section>
+  <h2>Mission</h2>
+  <p>Presbyterian College Blue Hose Baseball exists to compete at the highest level of NCAA Division I baseball while developing student-athletes, creating memorable experiences for fans, and strengthening connections between the team, college, alumni, and community.</p>
+</section>
+
+<section>
+  <h2>Our Story</h2>
+  <p>Blue Hose Baseball represents more than what happens between the lines. Every season brings together student-athletes, coaches, students, families, alumni, and fans who share a connection to Presbyterian College.</p>
+</section>
+
+<section>
+  <h2>Values</h2>
+  <p>Teamwork | Character | Commitment | Community | Pride | Growth</p>
+</section>
+
+<footer>
+  Presbyterian College Blue Hose Baseball
+</footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Presbyterian College Baseball Tickets & Game Day Experience</title>
+  <meta name="description" content="Experience Blue Hose Baseball at Elton Pollock Field. Find tickets, schedules, game-day information, promotions, and ways to be part of the Blue Hose.">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<header>
+  <h1>Your Seat. Your Team. Your Blue Hose.</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="tickets.html">Tickets</a>
+  <a href="contact.html">Contact</a>
+  <a href="campaign.html">Campaign</a>
+</nav>
+
+<section>
+  <h2>Game Day Experience</h2>
+  <p>NCAA Division I baseball • Affordable tickets • Family-friendly atmosphere • Student access • Promotions • Live stats</p>
+</section>
+
+<section>
+  <h2>2026 Ticket Pricing</h2>
+  <ul>
+    <li>Adult General Admission: $5</li>
+    <li>Child General Admission: $3</li>
+    <li>College Student: $3</li>
+    <li>PC Student: Free with ID</li>
+    <li>PC Faculty/Staff: Free with ID + 4 tickets</li>
+    <li>Reserve Chairback: $10</li>
+    <li>Group Tickets: $3</li>
+  </ul>
+  <p>Prices update each season.</p>
+
+  <a class="cta" href="https://gobluehose.com/sports/baseball/tickets">GET YOUR TICKETS</a>
+</section>
+
+<footer>
+  Presbyterian College Blue Hose Baseball
+</footer>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact Presbyterian College Athletics | Blue Hose Baseball</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<header>
+  <h1>Let's Stay Connected.</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="tickets.html">Tickets</a>
+  <a href="contact.html">Contact</a>
+  <a href="campaign.html">Campaign</a>
+</nav>
+
+<section>
+  <h2>Contact Information</h2>
+  <p>Presbyterian College Athletics<br>
+     105 Ashland Ave.<br>
+     Clinton, S.C. 29325<br>
+     Athletics Ticket Office: 864-833-8240</p>
+</section>
+
+<section>
+  <h2>Contact Form</h2>
+  <form>
+    <label>Name:</label><br>
+    <input type="text"><br><br>
+
+    <label>Email:</label><br>
+    <input type="email"><br><br>
+
+    <label>Reason for Contact:</label><br>
+    <select>
+      <option>General Question</option>
+      <option>Tickets</option>
+      <option>Baseball</option>
+      <option>Recruiting</option>
+      <option>Camps</option>
+      <option>Media</option>
+      <option>Partnership/Sponsorship</option>
+    </select><br><br>
+
+    <label>Message:</label><br>
+    <textarea rows="5"></textarea><br><br>
+
+    <button type="submit">SUBMIT</button>
+  </form>
+</section>
+
+<footer>
+  Presbyterian College Blue Hose Baseball
+</footer>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>More Than Baseball | Blue Hose Campaign</title>
+  <meta name="description" content="Be part of the Hose. Experience Blue Hose Baseball through players, fans, community, and unforgettable game days.">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<header>
+  <h1>Be Part of the Hose.</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="tickets.html">Tickets</a>
+  <a href="contact.html">Contact</a>
+  <a href="campaign.html">Campaign</a>
+</nav>
+
+<section>
+  <h2>More Than Baseball</h2>
+  <p>It's not just nine innings. It's the players, the fans, the campus, the community, and the moments you remember.</p>
+  <a class="cta" href="tickets.html">GET TICKETS</a>
+  <a class="cta" href="https://gobluehose.com/sports/baseball/schedule">VIEW THE SCHEDULE</a>
+</section>
+
+<section>
+  <h2>More Than the Game</h2>
+  <p>Player stories and behind-the-scenes moments.</p>
+</section>
+
+<section>
+  <h2>More Than the Players</h2>
+  <p>Students, families, alumni, and community members.</p>
+</section>
+
+<section>
+  <h2>More Than a Season</h2>
+  <p>A chance to become part of the Blue Hose Baseball community.</p>
+</section>
+
+<section>
+  <h2>Join the Blue Hose</h2>
+  <form>
+    <label>First Name:</label><br>
+    <input type="text"><br><br>
+
+    <label>Email:</label><br>
+    <input type="email"><br><br>
+
+    <input type="checkbox"> Send me Blue Hose Baseball news, schedules, promotions, and updates.<br><br>
+
+    <button type="submit">JOIN THE BLUE HOSE</button>
+  </form>
+</section>
+
+<footer>
+  Presbyterian College Blue Hose Baseball
+</footer>
+</body>
+</html>
+
+
